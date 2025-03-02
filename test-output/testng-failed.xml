@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="TestExecute.Osprey_EMEA.E2E_OrderPlacements.TEST_GOLD_OSP_EMEA_E2E_NW_009_GuestUser_Checkout_With_Discount_Paypal_Payment">
+        <methods>
+          <include name="Verifying_Guest_Discount_Paypal_Payment"/>
+          <include name="clearBrowser"/>
+          <include name="startTest"/>
+        </methods>
+      </class> <!-- TestExecute.Osprey_EMEA.E2E_OrderPlacements.TEST_GOLD_OSP_EMEA_E2E_NW_009_GuestUser_Checkout_With_Discount_Paypal_Payment -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

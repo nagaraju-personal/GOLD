@@ -1,0 +1,90 @@
+2025-01-18 16:53:34 INFO  log4j:53 - BaseDriver-StartBrowser-LineNo:197-Chrome Driver Stared Successfully
+2025-01-18 16:53:41 INFO  log4j:53 - Login-signIn-LineNo:72-Logged in with User: 
+2025-01-18 16:53:41 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:53:41 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //div[@x-ref='ip-detection-modal']//button    with attrubuteBy  xpath    is  53  milliseconds
+2025-01-18 16:53:41 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:53:53 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:53:53 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='customer-menu']    with attrubuteBy  xpath    is  29  milliseconds
+2025-01-18 16:53:53 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:53:57 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:05 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:54:05 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:07 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:16 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:54:25 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:54:27 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:36 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:54:44 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:44 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //img[contains(@itemprop ,'image')]    with attrubuteBy  xpath    is  33  milliseconds
+2025-01-18 16:54:44 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:54:44 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:50 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //img[@alt='Daylite™ Waist']    with attrubuteBy  xpath    is  32  milliseconds
+2025-01-18 16:54:50 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:54:54 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:54:59 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //div[@data-option-label='One Size']    with attrubuteBy  xpath    is  1204  milliseconds
+2025-01-18 16:54:59 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:55:00 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:55:11 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:55:18 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:55:25 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //div[@data-option-label='One Size']    with attrubuteBy  xpath    is  26  milliseconds
+2025-01-18 16:55:25 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:55:26 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='product-addtocart-button']    with attrubuteBy  xpath    is  81  milliseconds
+2025-01-18 16:55:26 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:55:27 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:55:47 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:55:49 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:55:57 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:56:05 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:56:05 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //img[contains(@itemprop ,'image')]    with attrubuteBy  xpath    is  39  milliseconds
+2025-01-18 16:56:05 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:56:06 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:56:12 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //img[@alt='PadLock']    with attrubuteBy  xpath    is  32  milliseconds
+2025-01-18 16:56:12 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:56:14 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:56:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //div[@data-option-label='One Size']    with attrubuteBy  xpath    is  722  milliseconds
+2025-01-18 16:56:19 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:56:20 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:56:30 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:56:38 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:56:45 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //div[@data-option-label='One Size']    with attrubuteBy  xpath    is  34  milliseconds
+2025-01-18 16:56:45 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:56:46 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[@id='product-addtocart-button']    with attrubuteBy  xpath    is  28  milliseconds
+2025-01-18 16:56:46 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:56:46 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:57:00 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[@x-text='totalCartAmount']    with attrubuteBy  xpath    is  60  milliseconds
+2025-01-18 16:57:00 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:57:03 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //a[contains(@class,'inline-flex btn btn-primary text')]    with attrubuteBy  xpath    is  35  milliseconds
+2025-01-18 16:57:03 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:57:04 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 16:57:12 INFO  log4j:53 - Sync-waitElementInvisible-LineNo:138- Time taken to waitElementInvisible  with locator //div[@data-role='spinner' and @style='display: none;']    with attrubuteBy  xpath    is  1251  milliseconds
+2025-01-18 16:57:12 INFO  log4j:53 - Sync-waitElementInvisible-LineNo:141-Sync waitElementInvisible completed successfully
+2025-01-18 16:57:16 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:57:34 INFO  log4j:53 - Sync-waitImplicit-LineNo:69-Sync waitImplicit Completed successfully
+2025-01-18 16:57:34 INFO  log4j:53 - Sync-waitImplicit-LineNo:69-Sync waitImplicit Completed successfully
+2025-01-18 16:57:34 INFO  log4j:53 - Sync-waitAndReturnWebElement-LineNo:944- Time taken to i < staleEliminatorIteration  is  129 milliseconds
+2025-01-18 16:57:34 INFO  log4j:53 - Sync-waitAndReturnWebElement-LineNo:882- Time taken to Function<? super WebDriver, WebElement> isTrue  is  144 milliseconds
+2025-01-18 16:57:50 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //span[text()='Standard Delivery (1-3 Days)']    with attrubuteBy  xpath    is  34  milliseconds
+2025-01-18 16:57:50 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:57:58 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //button[contains(text(),'Add Gift Card')]    with attrubuteBy  xpath    is  34  milliseconds
+2025-01-18 16:57:58 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:58:09 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 16:58:46 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator (//div[contains(@class,'paypal-button paypal-button')])[1]    with attrubuteBy  xpath    is  54  milliseconds
+2025-01-18 16:58:46 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 16:59:00 INFO  log4j:53 - Common-switchWindows-LineNo:292-id.equals(currentWindowId)  ELSE condition ins switchWindows
+2025-01-18 16:59:00 INFO  log4j:53 - Common-maximizeImplicitWait-LineNo:220-Came to maximizeImplicitWait  nethod whcih is siometimes tiking more time to switch
+2025-01-18 16:59:00 INFO  log4j:53 - Common-maximizeImplicitWait-LineNo:223-Time 1
+2025-01-18 16:59:01 INFO  log4j:53 - Common-maximizeImplicitWait-LineNo:229-Time 2
+2025-01-18 16:59:01 INFO  log4j:53 - Sync-waitImplicit-LineNo:69-Sync waitImplicit Completed successfully
+2025-01-18 17:00:06 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 17:00:45 INFO  log4j:53 - Common-clickOnHiddenElement-LineNo:476-Click on hidden element completed.
+2025-01-18 17:00:55 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator //h1[normalize-space()='Thank you for your purchase!']    with attrubuteBy  xpath    is  4603  milliseconds
+2025-01-18 17:00:55 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 17:00:59 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 17:01:31 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 17:01:34 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 17:02:08 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 17:02:08 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
+2025-01-18 17:02:08 INFO  log4j:53 - Sync-waitElementPresent-LineNo:393- Time taken to waitElementPresent  with locator menu-magento-sales-sales    with attrubuteBy  id    is  26  milliseconds
+2025-01-18 17:02:08 INFO  log4j:53 - Sync-waitElementPresent-LineNo:396-Sync waitElementPresent completed successfully
+2025-01-18 17:02:14 INFO  log4j:53 - Common-getscreenShotPathforReport-LineNo:716-screenshot saved successfully
+2025-01-18 17:02:17 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully

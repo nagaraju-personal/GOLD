@@ -1,0 +1,3 @@
+2025-01-18 17:36:53 INFO  log4j:53 - BaseDriver-StartBrowser-LineNo:197-Chrome Driver Stared Successfully
+2025-01-18 17:37:01 INFO  log4j:53 - Login-signIn-LineNo:72-Logged in with User: 
+2025-01-18 17:37:02 INFO  log4j:53 - Sync-waitPageLoad-LineNo:57-Sync waitPageLoad Completed successfully
