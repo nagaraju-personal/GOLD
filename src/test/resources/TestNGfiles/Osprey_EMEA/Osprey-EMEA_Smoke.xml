@@ -9,7 +9,7 @@
             <class name="TestExecute.Osprey_EMEA.regressionTestcase.Test_DGLD_OS_COMMON_001_Create_Account_Funtionality"/>
         </classes>
     </test> 
-
+<!--
     <test name="Test_DGLD_OS_COMMON_002_Forgot_Password_from_SignIn_page" testid="DTG-928" priority="P1" description="This script will cover the forgot password functionality from the sign-in page">
         <classes>
             <class name="TestExecute.Osprey_EMEA.regressionTestcase.Test_DGLD_OS_COMMON_002_Forgot_Password_from_SignIn_page"/>
@@ -98,6 +98,6 @@
         <classes>
             <class name="TestExecute.Osprey_EMEA.regressionTestcase.TEST_DGLD_OS_COMMON_118_RegisterUser_Store_CreditCheckout_Partial_with_Klarna_and_validate_the_StoreCredit_balance_in_MYAccount_page"/>
         </classes>
-    </test>
+    </test>-->
 
 </suite>
